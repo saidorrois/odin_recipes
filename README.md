@@ -1,2 +1,5 @@
 # odin_recipes
-Practice project
+Practice project for learning
+
+Lasagna & pizza recipe
+What the fuck
