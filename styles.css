@@ -24,7 +24,6 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 22px;
     text-align: center;
-    color: white;
 }
 
 .img {
@@ -36,6 +35,24 @@ body {
 }
 
 .first {
-    
+
 }
 
+a {
+    color: white
+    transition: all .2s linear;
+
+}
+    
+    a:visited {
+        color: white;
+        text-decoration: none;
+}
+    a:hover {
+        color:rebeccapurple;
+        text-decoration: none;
+}
+
+    a:link {
+        text-decoration: none;
+}
