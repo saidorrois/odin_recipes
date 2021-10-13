@@ -1,0 +1,63 @@
+body {
+    background-image: repeating-linear-gradient(135deg, rgba(204, 204, 204, 0.062), #ccc 10px, #eee 10px, #eee 20px);
+}
+
+#title {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    font-family: Helvetica, monospace;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 36px;
+    background: linear-gradient(to left, #70cbe2, #7686e2);
+    width: 55%;
+    scale: 60%;
+}
+
+.centerbox {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    background-color: white;
+    width: 30%;
+}
+
+.minitext {
+    text-align: center;
+}
+
+#first {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    background-color: white;
+    width: 50%;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid;
+    border-color:skyblue;
+}
+
+#ingredients {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    background-color: white;
+    width: 60%;
+}
+
+#back {
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
